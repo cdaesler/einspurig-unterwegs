@@ -1,0 +1,19 @@
+#categoriesbox li ,#pagesbox li{
+	border-bottom:1px #5A5C5C solid;
+	background:url(blacks/bg-pages.png) #EEEEF0 repeat-x;
+	color:#FFFFFF;
+}
+#categoriesbox li a span,#pagesbox li a span{
+	background:url(blacks/bg-icons.png) no-repeat 5px -584px;;
+	color:#FFFFFF;
+}
+#menubox{
+	background-color:#353C3E;
+	border:1px #42494C solid;
+}
+#header h1 a,#header h1 a:visited{
+	text-shadow:5px 2px 6px #000000;
+}
+#header .bookmark {
+	background:url(blacks/social-button-bg.png)no-repeat;
+}

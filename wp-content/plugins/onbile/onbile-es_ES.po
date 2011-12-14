@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Onbile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-24 08:48+0100\n"
+"PO-Revision-Date: 2010-06-24 08:51+0100\n"
+"Last-Translator: Daniel <pitiflautico3@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ./Applications/MAMP/htdocs/onbile/\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/onbile\n"
+
+#: /Applications/MAMP/htdocs/onbile/includes/class_db.php:826
+#, php-format
+msgid "<strong>ERROR</strong>: WordPress %s requires MySQL 4.1.2 or higher"
+msgstr "<strong>ERROR</strong>: WordPress %s requires MySQL 4.1.2 or higher"
+
+#: /Applications/MAMP/htdocs/onbile/includes/class_design.php:133
+msgid "File not readable."
+msgstr "No se puede leer archivo"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:82
+msgid "Onbile Configuration"
+msgstr "Configuracion Onbile"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:88
+msgid "Wordpress for mobile devices"
+msgstr "Wordpress para dispositivos moviles"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:92
+msgid "Create a <em>free</em> mobile version for your wordpress,<br />In just 5 minutes in only 2 steps."
+msgstr "Crea  <em>gratis</em> una version para dispositivos moviles de tu wordpress,<br/> en solo 5 minutos y 2 pasos."
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:98
+msgid "Create your account at Onbile.com"
+msgstr "Crea tu cuenta en Onbile.com"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:99
+msgid "Create your account"
+msgstr "Crea tu cuenta"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:104
+msgid "Insert your code"
+msgstr "Inserta tu codigo "
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/configonbile.php:112
+msgid "Save configuration"
+msgstr "Salvar configuracion"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/onbile.php:19
+msgid "Your Onbile code here"
+msgstr "Tu codigo Onbile aqui"
+
+#: /Applications/MAMP/htdocs/onbile/plugin_wordpress/onbile/onbile.php:37
+msgid "Onbile"
+msgstr "Onbile"
+

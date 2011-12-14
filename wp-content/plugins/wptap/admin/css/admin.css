@@ -1,0 +1,19 @@
+.wptap-admin-container {
+	padding:8px;
+}
+
+.wptap-admin-container td {
+	line-height:22px;
+}
+
+.wptap-admin-container fieldset {
+	border:1px #DFDFDF dotted;
+	background:#F9F9F9;
+	margin-top:8px;
+	padding:8px;
+	-moz-border-radius:5px;
+}
+
+.red {
+	color:red;
+}

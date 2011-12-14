@@ -1,0 +1,22 @@
+/* switch theme */
+
+#now_iphone h3,#now_pc h3{
+	text-align:center;
+	width:100%;
+	padding:8px 0;
+}
+#now_iphone h3 a{
+	display:inline-block;
+	/*width:45px;*/
+	width:170px;
+	height:22px;
+	background:url(images/iphone.png) no-repeat 0 0;
+	vertical-align:middle;
+}
+#now_pc h3 a{
+	display:inline-block;
+	width:170px;
+	height:22px;
+	background:url(images/pc.png) no-repeat 0 0;
+	vertical-align:middle;
+}

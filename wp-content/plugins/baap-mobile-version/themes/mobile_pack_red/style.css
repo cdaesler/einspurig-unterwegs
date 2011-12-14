@@ -1,0 +1,33 @@
+/*
+$Id: style.css 320618 2010-12-08 19:25:40Z BAAP $
+$URL: http://plugins.svn.wordpress.org/baap-mobile-version/trunk/themes/mobile_pack_red/style.css $
+Copyright (c) 2009 BAAP, portions mTLD Top Level Domain Limited, BAAP, Forum Nokia
+This file is part of the BAAP Mobile Version, licensed under the Apache License, Version 2.0. Consult server-side files for license.
+*/
+
+/*
+Theme Name: WordPress Mobile (red)
+Theme URI: http://wordpress.org/extend/plugins/baap-mobile-version/
+Description: A tinted version of base theme of the BAAP Mobile Version. It is designed to be used by mobile browsers.
+Version: 2.0
+Author: BAAP, Forum Nokia & James Pearce
+Author URI: http://BAAP.co.uk
+Template: mobile_pack_base
+
+@import "../mobile_pack_base/style.css";
+^ Deprecated and replaced by an additional <link> in the markup.
+
+*/
+
+/* VERY DARK */
+.button, #submit, #header, #footer {
+	background-color:#CC0033;
+}
+input, textarea {
+  border-color:#CC0033;
+}
+
+/* DARK */
+a, a:visited {
+	color:#FF0066;
+}

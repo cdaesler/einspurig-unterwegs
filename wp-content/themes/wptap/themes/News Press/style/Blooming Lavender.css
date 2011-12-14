@@ -1,0 +1,54 @@
+body{
+	background:url(blooming-lavender/bg-body.png) #7a4077 repeat-x;
+}
+#header .nav li a,#header .nav li a:visited{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 0 0;
+	color:#7B4277
+}
+#header .nav li a:hover{
+	color:#E77817;	
+}
+#footer a, #ad_code a{
+	color:#DCD888;
+}
+#content .extra{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 0 -1500px;
+}
+.article a, .article a:visited{
+	color:#7B4277;
+}
+.gotocomments a{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 17px -2084px;
+}
+#content .navigation .alignright a{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 100% -1098px;
+}
+.unread-comments span.left-border{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 0 -300px;
+}
+#content .navigation .alignleft a{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 0 -998px;
+}
+
+#categoriesbox li a ,#pagesbox li a{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 98% -687px;
+}
+
+#categoriesbox li ,#pagesbox li{
+	border-bottom:1px solid #AEBEC4;
+	background-color:#EEEEF0;
+}
+#categoriesbox li a span,#pagesbox li a span{
+	background:url(blooming-lavender/bg-icons.png) no-repeat 5px -584px;
+	color:#1F1A17;
+}
+#menubox{
+	background-color:#846092;
+	border:1px #9168A1 solid;
+}
+#header h1 a,#header h1 a:visited{
+	text-shadow:5px 2px 6px #000000;
+}
+#header .bookmark {
+	background:url(blooming-lavender/social-button-bg.png)no-repeat;
+}

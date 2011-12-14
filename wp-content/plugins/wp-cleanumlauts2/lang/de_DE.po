@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: f042start\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-27 19:11+0100\n"
+"PO-Revision-Date: 2011-04-27 19:11+0100\n"
+"Last-Translator: Juergen <1manfactory@gmail.com>\n"
+"Language-Team: Juergen Schulze <1manfactory@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: c:\\Programme\\xampp\\htdocs\\blog\\\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: wp-content\\plugins\\wp-cleanumlauts2\n"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:87
+msgid "Umlauts"
+msgstr "Umlaute"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:94
+msgid "Main Settings"
+msgstr "Einstellungen"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:96
+msgid "Convert Pemalinks"
+msgstr "Permalinks umwandeln"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:97
+msgid "Convert Feeds"
+msgstr "Feeds umwandeln"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:98
+msgid "Convert Posts"
+msgstr "Post/Nachrichten umwandeln"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:99
+msgid "Convert Comments"
+msgstr "Kommentare umwandeln"
+
+#: wp-content\plugins\wp-cleanumlauts2/umlauts.php:107
+msgid "Choose where you want the German umlauts to be converted."
+msgstr "Wählen Sie, wo Umlaute umgewandelt werden sollen."
+
+#~ msgid "HTML Title"
+#~ msgstr "HTML Titel"
+
+#~ msgid "Menu title"
+#~ msgstr "Menü Titel"
+
+#~ msgid "HTML Title2"
+#~ msgstr "HTML Titel 2"
+
+#~ msgid "Menu title 2"
+#~ msgstr "Menü Titel 2"
+
+#, fuzzy
+#~ msgid "HTML Title 3"
+#~ msgstr "HTML Titel"
+
+#, fuzzy
+#~ msgid "Menu title 3"
+#~ msgstr "Menü Titel 2"
+
+#, fuzzy
+#~ msgid "HTML Title 4"
+#~ msgstr "HTML Titel"
+
+#, fuzzy
+#~ msgid "Menu title 4"
+#~ msgstr "Menü Titel 2"
+
+#~ msgid "Language"
+#~ msgstr "Sprache"

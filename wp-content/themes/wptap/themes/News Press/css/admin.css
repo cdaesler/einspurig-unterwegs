@@ -1,0 +1,29 @@
+#upload_button, #upload_pages_button {
+	width:129px;
+	height:60px;
+	background:url("upload.png") no-repeat left top;
+	cursor:pointer;
+	padding:5px 0;
+}
+
+.icon-list {
+	clear:both;
+	border:1px #ccc solid;
+	padding:8px;
+	margin-top:10px;
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+}
+
+.icon-list img {
+	padding:15px;
+	background-color:#FFFFE0;
+	border:1px #E6DB55 dotted;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	cursor:pointer;
+}
+
+.red {
+	color:red;
+}

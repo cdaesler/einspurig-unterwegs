@@ -1,0 +1,61 @@
+body{
+	background:url(persian-rose/bg-body.png) #af3056 repeat-x;
+}
+
+#header .nav li a,#header .nav li a:visited{
+	background:url(persian-rose/bg-icons.png) no-repeat 0 0;
+	color:#AF3056;
+}
+
+#header .nav li a:hover{
+	color:#E77817;
+}
+#footer a, #ad_code a{
+	color:#5BB07F;
+}
+
+
+
+#content .extra{
+	background:url(persian-rose/bg-icons.png) no-repeat 0 -1500px;
+}
+.article a, .article a:visited{
+	color:#AF3056;
+}
+
+
+.gotocomments a{
+	background:url(persian-rose/bg-icons.png) no-repeat 17px -2084px;
+}
+#content .navigation .alignright a{
+	background:url(persian-rose/bg-icons.png) no-repeat 100% -1098px;
+}
+.unread-comments span.left-border{
+	background:url(persian-rose/bg-icons.png) no-repeat 0 -300px;
+}
+#content .navigation .alignleft a{
+	background:url(persian-rose/bg-icons.png) no-repeat 0 -998px;
+}
+
+#categoriesbox li a ,#pagesbox li a{
+	background:url(persian-rose/bg-icons.png) no-repeat 98% -687px;
+}
+
+#categoriesbox li ,#pagesbox li{
+	background-color:#EEEEF0;
+	border-bottom:1px solid #AEBEC4
+}
+#categoriesbox li a span,#pagesbox li a span{
+	background:url(persian-rose/bg-icons.png) no-repeat 5px -584px;;
+	color:#1f1a17;
+}
+#menubox{
+	background-color:#C2325B;
+	border:1px #CF5F7B solid;
+}
+#header h1 a,#header h1 a:visited{
+	text-shadow:5px 2px 6px #000000;
+}
+#header .bookmark {
+	background:url(persian-rose/social-button-bg.png)no-repeat;
+}

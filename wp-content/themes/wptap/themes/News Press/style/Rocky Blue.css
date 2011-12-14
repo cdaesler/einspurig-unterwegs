@@ -1,0 +1,60 @@
+body{
+	background:url(rocky-blue/bg-body.png) #3c7ea2 repeat-x;
+}
+
+#header .nav li a,#header .nav li a:visited{
+	background:url(rocky-blue/bg-icons.png) no-repeat 0 0;
+	color:#115789;
+}
+
+#header .nav li a:hover{
+	color:#E77817;	
+}
+#footer a, #ad_code a{
+	color:#D28642;
+}
+
+
+.article a, .article a:visited{
+	color:#1FA0E2;
+}
+
+#content .extra{
+	background:url(rocky-blue/bg-icons.png) no-repeat 0 -1500px;
+}
+
+.gotocomments a{
+	background:url(rocky-blue/bg-icons.png) no-repeat 17px -2084px;
+}
+#content .navigation .alignright a{
+	background:url(rocky-blue/bg-icons.png) no-repeat 100% -1098px;
+}
+.unread-comments span.left-border{
+	background:url(rocky-blue/bg-icons.png) no-repeat 0 -300px;
+}
+#content .navigation .alignleft a{
+	background:url(rocky-blue/bg-icons.png) no-repeat 0 -998px;
+}
+
+#categoriesbox li a ,#pagesbox li a{
+	background:url(rocky-blue/bg-icons.png) no-repeat 98% -687px;
+}
+
+#categoriesbox li ,#pagesbox li{
+	border-bottom:1px solid #AEBEC4;
+	background-color:#eeeef0;
+}
+#categoriesbox li a span,#pagesbox li a span{
+	background:url(rocky-blue/bg-icons.png) no-repeat 5px -584px;
+	color:#1f1a17;
+}
+#menubox{
+	background-color:#3E8CB1;
+	border:1px #42A4D0 solid;
+}
+#header h1 a,#header h1 a:visited{
+	text-shadow:5px 2px 6px #000000;
+}
+#header .bookmark {
+	background:url(rocky-blue/social-button-bg.png)no-repeat;
+}
